@@ -1,4 +1,4 @@
-主要资料来源：[C语言中文网](http://c.biancheng.net/)和[菜鸟教程](www.runoob.com)
+主要资料来源：[C语言中文网](http://c.biancheng.net/)，[菜鸟教程](www.runoob.com)，[博客园](www.cnblogs.com)，[CSDN](www.csdn.net/)
 # 设计模式分类
 | 模式大类 | 模式 | 
 | ----| :----: | 
